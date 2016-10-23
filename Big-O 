@@ -1,0 +1,3 @@
+    Insertion Sort algoritmasında önce ilk sayıyı ardından gelen sayı ile kıyaslayıp sıralar. Sonra bir sonraki sayıyı bunlarla kıyaslar ta ki son sayıya kadar. n kadar sayı için 1'den n'e kadar sayıyı kıyaslar. Yani karmaşıklığı n.(n+1)/2'den n kare dir.
+
+    Merge Sort algoritmasında önce bütün diziyi ikiye böler sonra ikiye bölünmüş dizileri tekrar ikiye böler ta ki son diziler birer elemanlı olana kadar. Bunun karmaşıklığı 1'dir. Sonra bölünmüş dizilerden başlayıp bir yanındakilerle kıyaslayıp sıralar. n tane elemanlı dizi için her bir seviyeyi n defa kontrol eder. Diziler ikiye bölünerek kıyaslandığı için toplam logn tane seviye vardır. Yani karmaşıklık nlogn'dir.
